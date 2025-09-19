@@ -9,7 +9,7 @@ As Among Us is actively updated, you may want to use the latest build from the m
 
 If you want to play on an older version of Among Us, you can download old releases from [here](https://github.com/Impostor/Impostor/releases/), however these versions are less supported.
 
-## Features
+## Features aaa
 
 - All Among Us features are implemented. It is a full replacement for the official server.
 - Plugin support.
